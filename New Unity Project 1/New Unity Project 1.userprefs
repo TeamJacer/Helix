@@ -1,15 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Health Script/Scripts/Assist Examples/ConnectWithKillDisplay.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\Desktop\Helix-master2\New Unity Project 1\Assets\Tutorial 5\Tutorial 5\EnemyHealth.js">
     <Files>
-      <File FileName="Assets/Health Script/Scripts/Assist Examples/ConnectWithKillDisplay.cs" Line="1" Column="1" />
-      <File FileName="Assets/Health Script/Scripts/Other Examples/Shoot.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\Desktop\Helix-master2\New Unity Project 1\Assets\Tutorial 5\Tutorial 5\EnemyHealth.js" Line="16" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="C:\Users\Jacob\Desktop\Unity Files\New Unity Project 1\Assets\Scripts\AimDownSights.js" line="9" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
